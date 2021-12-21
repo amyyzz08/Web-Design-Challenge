@@ -44,7 +44,29 @@ img{
 .header{
     text-align: centre;
 }
-
+.dataframe{
+    text-align: center;
+    margin-left: 90px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.head{
+    margin-right: 20px;
+}
+tr{
+    border: 1px solid black;
+    background-color: rgb(247, 216, 221);
+    
+}
+tr:nth-child(odd){
+    border: 1px solid black;
+    background-color:white;
+    
+}
+th{
+    background-color:rgb(247, 216, 221);
+    padding:20px;
+}
 
 
 
