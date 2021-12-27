@@ -31,6 +31,9 @@ Displays a table containing the data used in plotting the visualisations.
 
 ![](Web_Visualisations/images/data.png)
 
+### Copyright
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 
 
